@@ -7,12 +7,13 @@ import {
 } from "react-router-dom";
 import './index.css'
 
+import Home from './pages/Home.jsx';
 import SingleBlogs from './pages/SingleBlogs.jsx';
 import Blogs from './pages/Blogs.jsx';
 import About from './pages/About.jsx';
 import Contact from './pages/Contact.jsx';
 import Services from './pages/Services.jsx';
-import Home from './pages/HOME.jsx';
+
 
 
 
